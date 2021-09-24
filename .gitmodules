@@ -1,3 +1,6 @@
 [submodule "start/vim-airline"]
 	path = base/start/vim-airline
 	url = https://github.com/vim-airline/vim-airline.git
+[submodule "vim-obsession"]
+	path = base/start/vim-obsession
+	url = https://github.com/tpope/vim-obsession.git
