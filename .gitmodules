@@ -8,3 +8,6 @@
 	path = heavy/start/coc.nvim
 	url = https://github.com/neoclide/coc.nvim.git
 	branch = release
+[submodule "base/start/nerdtree"]
+	path = base/start/nerdtree
+	url = https://github.com/preservim/nerdtree.git
