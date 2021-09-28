@@ -11,3 +11,6 @@
 [submodule "base/start/nerdtree"]
 	path = base/start/nerdtree
 	url = https://github.com/preservim/nerdtree.git
+[submodule "base/start/vim-templates"]
+	path = base/start/vim-templates
+	url = https://github.com/tibabit/vim-templates.git
