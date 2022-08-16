@@ -23,7 +23,7 @@ $> git push
 Update packages:
 
 ```
-$> git submodule update --remote --merge
+$> git submodule update --recursive --remote --merge
 $> git commit -m "Updated all"
 ```
 
